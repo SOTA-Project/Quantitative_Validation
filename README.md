@@ -1,2 +1,2 @@
 # Quantitative_Validation
-Quantitative Validation (MAE, RMSE, Sq Rel)
+get RMSE, MAE and Sq rel data from the Depth estimation image
